@@ -1,0 +1,6 @@
+C:\workspace\SendMail\SendMail\bin\Debug\SendMail.exe
+C:\workspace\SendMail\SendMail\bin\Debug\SendMail.pdb
+C:\workspace\SendMail\SendMail\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\workspace\SendMail\SendMail\obj\x86\Debug\SendMail.exe
+C:\workspace\SendMail\SendMail\obj\x86\Debug\SendMail.pdb
+C:\workspace\SendMail\SendMail\bin\Debug\SendMail.exe.config
